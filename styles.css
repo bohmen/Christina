@@ -1,2 +1,38 @@
 
 /* This file is where your CSS goes. When you start adding CSS, feel free to delete this comment */
+body {
+    background-color: lightblue;
+    background-image: url("./images/ice.jpg");
+    background-repeat: no-repeat;
+}
+
+h1 {
+    color: darkblue;
+    text-align: center;
+}
+
+p {
+    font-family: copperplate;
+    font-size: 16px;
+}
+img {
+  margin-left: 50px;
+}
+video {
+  margin-left: 50px;
+}
+.blue {
+  color: blue;
+}
+.large {
+  font-size: 70px;
+}
+.flower {
+background-color: #ffa800;
+padding: 50px;
+border: 20 px solid blue;
+margin-top: 30px;
+margin-bottom: 50px;
+margin-left: 50px;
+margin-right: 50px;
+}
