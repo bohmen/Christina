@@ -6,6 +6,8 @@ body {
     background-repeat: no-repeat;
     font-family: 'Julius Sans One', sans-serif;
     font-size: 20px;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 h1 {
@@ -15,7 +17,6 @@ h1 {
 
 
 img {
-  margin-left: 50px;
 }
 video {
   margin-left: 50px;
@@ -30,19 +31,13 @@ video {
 background-color: #ccc;
 padding: 50px;
 border: 20 px solid blue;
-margin-top: 30px;
-margin-bottom: 50px;
-margin-left: 50px;
-margin-right: 50px;
+margin-right: 40px;
 }
 .lips {
 background-color: #ccc;
 padding: 50px;
 border: 20 px solid blue;
-margin-top: 30px;
-margin-bottom: 50px;
-margin-left: 50px;
-margin-right: 50px;
+margin-left: 40px;
 }
 .mainnav a {
   text-align: center;
@@ -50,4 +45,15 @@ margin-right: 50px;
 }
 .mainnav a {
   text-align: center;
+}
+.pure-g
+{
+  margin-top: 10px;
+  margin-bottom: 10px;
+
+}
+.videoframe
+{
+  margin-left: 10px;
+  margin-right: 10px;
 }
